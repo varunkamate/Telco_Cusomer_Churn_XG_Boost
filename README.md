@@ -48,7 +48,7 @@ Serialization: The trained model was saved as a binary file (model.pkl) for easy
 Web App Development: The app.py script loads the serialized model, creates a user interface with Streamlit widgets, and uses the model to generate real-time predictions based on user input.
 
 🚀 How to Run Locally
-Clone the repository: git clone https://github.com/your-username/Telco-Churn-Predictor.git
+Clone the repository: git clone [https://github.com/your-username/Telco-Churn-Predictor.git](https://github.com/varunkamate/Telco_Cusomer_Churn_XG_Boost?tab=readme-ov-file)
 
 Navigate to the project folder: cd Telco_Churn_Predictor
 

@@ -37,3 +37,29 @@ Telco_Churn_Predictor/
 │── XG_BOOST.ipynb         # Jupyter Notebook with the model training
 │── requirements.txt       # Python dependencies
 │── README.md              # Project documentation
+
+📊 Methodology
+The project leverages the power of machine learning and data visualization to create a functional web app.
+
+Model Training: An XGBoost classifier was trained on the Telco_Cusomer_Churn.csv dataset.
+
+Serialization: The trained model was saved as a binary file (model.pkl) for easy deployment.
+
+Web App Development: The app.py script loads the serialized model, creates a user interface with Streamlit widgets, and uses the model to generate real-time predictions based on user input.
+
+🚀 How to Run Locally
+Clone the repository: git clone https://github.com/your-username/Telco-Churn-Predictor.git
+
+Navigate to the project folder: cd Telco_Churn_Predictor
+
+Create a virtual environment: python -m venv venv
+
+Activate the virtual environment:
+
+Windows: .\venv\Scripts\activate
+
+macOS/Linux: source venv/bin/activate
+
+Install dependencies: pip install -r requirements.txt
+
+Run the Streamlit app: streamlit run app.py

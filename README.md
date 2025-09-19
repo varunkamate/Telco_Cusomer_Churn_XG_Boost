@@ -62,3 +62,16 @@ macOS/Linux: source venv/bin/activate
 Install dependencies: pip install -r requirements.txt
 
 Run the Streamlit app: streamlit run app.py
+
+
+===========================================================================
+
+OUTPUT-SCREENSHOT
+
+<img width="1913" height="775" alt="image" src="https://github.com/user-attachments/assets/bed8aa35-de0d-433d-a918-8b6109d06adc" />
+
+===========================================================================
+
+
+
+

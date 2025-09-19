@@ -72,6 +72,6 @@ OUTPUT-SCREENSHOT
 
 ===========================================================================
 
-<img width="1148" height="813" alt="image" src="https://github.com/user-attachments/assets/129167e3-71b4-40eb-a16c-26296ef3304a" />
+
 
 
